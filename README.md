@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegogagan2587" alt="diegogagan2587" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://diegogagan2587.github.io/Diego-Vidal/)
+- 🔭 I’m currently working on [My Personal Portfolio](https://dvloper-z.com/)
 
 - 🌱 I’m currently learning at **Microverse**
 
 - 👯 I’m looking to collaborate on **a startup where I can learn from dynamic environments and challenges, or a big company where I can grow with teammates.**
 
-- 👨‍💻 All of my projects are available at [https://diegogagan2587.github.io/Diego-Vidal/](https://diegogagan2587.github.io/Diego-Vidal/)
+- 👨‍💻 All of my projects are available at [dvloper-z.com](https://dvloper-z.com/)
 
 - 📫 How to reach me **diego27796gagan@gmail.com**
 
